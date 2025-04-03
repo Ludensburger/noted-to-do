@@ -58,6 +58,10 @@ The test automation covers the following scenarios:
 - Expanding test cases to cover payment gateway edge cases.
 - Enhancing collector-side features for better workflow management.
 
+## Authors
+- Ryu R. Mendoza
+- Philip James Olbedencia
+
 ## Contributing
 Contributions are welcome! Please follow the repository guidelines for submitting pull requests and reporting issues.
 
