@@ -43,12 +43,8 @@ The test automation covers the following scenarios:
 ### Test Case 5: Collector Dashboard - View Assigned Pickups
 - **Test Case ID**: TC_005
 - **Test Scenario**: Collector views assigned pickups.
-
-### Test Case 6: System Security - Password Hashing
-- **Test Case ID**: TC_006
-- **Test Scenario**: Verify password hashing functionality.
-
-### Test Case 7: Payment System
+  
+### Test Case 6: Payment System
 - **Test Case ID**: TC_007
 - **Test Scenario**: Verify payment processing functionality.
 
